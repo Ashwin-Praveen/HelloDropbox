@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ashwinpraveen1/Documents/AndroidStudioProjects/HelloDropbox/app/libs/dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45fb26781bc311772660c697996801f8f39d3ce0">
+        <dex dex="/Users/ashwinpraveen1/Documents/AndroidStudioProjects/HelloDropbox/app/build/intermediates/pre-dexed/debug/dropbox-sync-sdk-android-28544378dc1e8a259a957366355f93a204980dee.jar" />
+    </item>
+    <item
+        jar="/Users/ashwinpraveen1/Documents/AndroidStudioProjects/HelloDropbox/libs/dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="45fb26781bc311772660c697996801f8f39d3ce0">
+        <dex dex="/Users/ashwinpraveen1/Documents/AndroidStudioProjects/HelloDropbox/app/build/intermediates/pre-dexed/debug/dropbox-sync-sdk-android-54315b4867350eb804e03f94dec9275e77300b0e.jar" />
+    </item>
+
+</items>
