@@ -128,7 +128,7 @@ public class HelloDropboxActivity extends Activity {
                 mTestOutput.append("'" + testPath.toString() + "' is a folder.\n");
             }
         } catch (IOException e) {
-            mTestOutput.setText("Dropbox test failed: " + e);
+            mTestOutput.setText("Dropbox test failed, try again: " + e);
         }
     }
 }
